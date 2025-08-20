@@ -1,0 +1,22 @@
+export const Icons = {
+
+    'Partly Cloudy':require('../assets/icons/Cloudy.png'),
+    'Partly cloudy':require('../assets/icons/Cloudy.png'),
+    'Moderate rain':require('../assets/icons/Moderaterain.png'),
+    'Patchy rain possible':require('../assets/icons/Patchyrain.png'),
+    'Sunny':require('../assets/icons/Clear.png'),
+    'Clear':require('../assets/icons/Clear.png'),
+    'Fog':require('../assets/icons/fog.png'),
+    'Overcast':require('../assets/icons/Overcast.png'),
+    'Cloudy':require('../assets/icons/Cloudy.png'),
+    'Light rain':require('../assets/icons/Moderaterain.png'),
+    'Light rain shower':require('../assets/icons/Moderaterain.png'),
+    'Mist':require('../assets/icons/Moderaterain.png'),
+    'Moderate rain at times':require('../assets/icons/Moderaterain.png'),
+    'Heavy rain': require('../assets/icons/Heavyrain.png'),
+    'Heavy rain at times': require('../assets/icons/Heavyrain.png'),
+    'Moderate or heavy freezing rain':require('../assets/icons/Moderaterain.png'),
+    'Moderate or heavy rain shower':require('../assets/icons/Moderaterain.png'),
+    'Moderate or heavy rain with thunder':require('../assets/icons/thunder.png'),
+    'other':require('../assets/icons/thunder.png'),
+} 
